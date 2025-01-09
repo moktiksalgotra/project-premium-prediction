@@ -12,33 +12,33 @@ Real-world application: Build a tool using Python and Streamlit for real-time pr
 # Key Features
 1. Data Cleaning and Preprocessing
 
-1.1 Address missing data, outliers, and inconsistencies.
-2.2 Use robust imputation and normalization techniques to prepare the dataset.
+1. Address missing data, outliers, and inconsistencies.
+2. Use robust imputation and normalization techniques to prepare the dataset.
 
 2.Exploratory Data Analysis (EDA)
 
-Identify patterns and correlations in the dataset.
--Visualize relationships between predictors like BMI, smoking habits, and premium amounts.
+1. Identify patterns and correlations in the dataset.
+2. Visualize relationships between predictors like BMI, smoking habits, and premium amounts.
 
 3. Feature Engineering
 
--Create new features such as "Risk Score" and interaction terms for higher predictive accuracy.
--Transform categorical variables using encoding techniques.
+1. Create new features such as "Risk Score" and interaction terms for higher predictive accuracy.
+2. Transform categorical variables using encoding techniques.
 
 4. Regression Modeling
 
--Train and fine-tune advanced models (e.g., Linear Regression, Random Forest, XGBoost).
--Perform hyperparameter tuning to optimize model performance.
+1. Train and fine-tune advanced models (e.g., Linear Regression, Random Forest, XGBoost).
+2. Perform hyperparameter tuning to optimize model performance.
 
 5. Error Analysis and Segmentation
 
--Analyze prediction errors and adjust models to reduce bias.
--Segment customers into risk groups for better premium classification.
+1. Analyze prediction errors and adjust models to reduce bias.
+2. Segment customers into risk groups for better premium classification.
 
 6. Deployment
 
--Deploy the model using Streamlit for interactive, real-time insurance premium prediction.
--Create an intuitive user interface for stakeholders.
+1. Deploy the model using Streamlit for interactive, real-time insurance premium prediction.
+2. Create an intuitive user interface for stakeholders.
 
 # Technologies Used
 1. Programming Language: Python
