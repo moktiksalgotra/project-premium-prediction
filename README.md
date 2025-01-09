@@ -15,7 +15,7 @@ Real-world application: Build a tool using Python and Streamlit for real-time pr
 1. Address missing data, outliers, and inconsistencies.
 2. Use robust imputation and normalization techniques to prepare the dataset.
 
-# 2.Exploratory Data Analysis (EDA)
+# 2. Exploratory Data Analysis (EDA)
 
 1. Identify patterns and correlations in the dataset.
 2. Visualize relationships between predictors like BMI, smoking habits, and premium amounts.
