@@ -10,32 +10,32 @@ Model creation and deployment: Learn the end-to-end process of building machine 
 Real-world application: Build a tool using Python and Streamlit for real-time premium prediction, adaptable across industries.
 
 # Key Features
-1. Data Cleaning and Preprocessing
+# 1. Data Cleaning and Preprocessing
 
 1. Address missing data, outliers, and inconsistencies.
 2. Use robust imputation and normalization techniques to prepare the dataset.
 
-2.Exploratory Data Analysis (EDA)
+# 2.Exploratory Data Analysis (EDA)
 
 1. Identify patterns and correlations in the dataset.
 2. Visualize relationships between predictors like BMI, smoking habits, and premium amounts.
 
-3. Feature Engineering
+# 3. Feature Engineering
 
 1. Create new features such as "Risk Score" and interaction terms for higher predictive accuracy.
 2. Transform categorical variables using encoding techniques.
 
-4. Regression Modeling
+# 4. Regression Modeling
 
 1. Train and fine-tune advanced models (e.g., Linear Regression, Random Forest, XGBoost).
 2. Perform hyperparameter tuning to optimize model performance.
 
-5. Error Analysis and Segmentation
+# 5. Error Analysis and Segmentation
 
 1. Analyze prediction errors and adjust models to reduce bias.
 2. Segment customers into risk groups for better premium classification.
 
-6. Deployment
+# 6. Deployment
 
 1. Deploy the model using Streamlit for interactive, real-time insurance premium prediction.
 2. Create an intuitive user interface for stakeholders.
