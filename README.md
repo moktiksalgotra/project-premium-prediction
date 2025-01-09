@@ -41,17 +41,17 @@ Real-world application: Build a tool using Python and Streamlit for real-time pr
 -Create an intuitive user interface for stakeholders.
 
 # Technologies Used
--Programming Language: Python
--Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost
--Deployment: Streamlit
--Version Control: Git
+1. Programming Language: Python
+2. Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost
+3. Deployment: Streamlit
+4. Version Control: Git
 
 # Real-World Applications
--Enable healthcare insurers to assess premium rates dynamically.
--Provide tools for financial decision-making in other industries (e.g., loans, credit risk).
--Facilitate customer risk assessment for tailored insurance plans.
+1. Enable healthcare insurers to assess premium rates dynamically.
+2. Provide tools for financial decision-making in other industries (e.g., loans, credit risk).
+3. Facilitate customer risk assessment for tailored insurance plans.
 
 # Future Enhancements
--Incorporate advanced machine learning techniques like neural networks.
--Enhance deployment for cross-platform compatibility.
--Explore multi-output regression for predicting multiple financial outcomes simultaneously.
+1. Incorporate advanced machine learning techniques like neural networks.
+2. Enhance deployment for cross-platform compatibility.
+3. Explore multi-output regression for predicting multiple financial outcomes simultaneously.
