@@ -12,12 +12,12 @@ Real-world application: Build a tool using Python and Streamlit for real-time pr
 # Key Features
 1. Data Cleaning and Preprocessing
 
--Address missing data, outliers, and inconsistencies.
--Use robust imputation and normalization techniques to prepare the dataset.
+1.1 Address missing data, outliers, and inconsistencies.
+2.2 Use robust imputation and normalization techniques to prepare the dataset.
 
 2.Exploratory Data Analysis (EDA)
 
--Identify patterns and correlations in the dataset.
+Identify patterns and correlations in the dataset.
 -Visualize relationships between predictors like BMI, smoking habits, and premium amounts.
 
 3. Feature Engineering
