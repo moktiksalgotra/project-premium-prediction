@@ -5,9 +5,9 @@ Leveraging advanced regression techniques to predict premiums with precision and
 This project focuses on applying machine learning regression models to predict healthcare insurance premiums. It covers essential stages of real-world workflows, including data collection, cleaning, exploratory data analysis (EDA), feature engineering, model training, and deployment. By leveraging Python and tools like Streamlit, this project demonstrates how to design, train, and deploy predictive models for real-time decision-making.
 
 # Key Objectives
-Develop domain expertise: Understand key factors influencing insurance premium calculations, such as age, BMI, medical history, and lifestyle habits.
-Model creation and deployment: Learn the end-to-end process of building machine learning models, from data preprocessing to deployment.
-Real-world application: Build a tool using Python and Streamlit for real-time premium prediction, adaptable across industries.
+1. Develop domain expertise: Understand key factors influencing insurance premium calculations, such as age, BMI, medical history, and lifestyle habits.
+2. Model creation and deployment: Learn the end-to-end process of building machine learning models, from data preprocessing to deployment.
+3. Real-world application: Build a tool using Python and Streamlit for real-time premium prediction, adaptable across industries.
 
 # Key Features
 # 1. Data Cleaning and Preprocessing
